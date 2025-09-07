@@ -19,9 +19,3 @@
 3. 设置环境变量（复制 `text.env.example` 为 `text.env` 并修改）
 4. 运行项目：`go run main.go`
 5. 访问 `http://localhost:8080`
-
-## API 文档
-
-详见 [API.md](API.md) 文件
-
-## 项目结构
